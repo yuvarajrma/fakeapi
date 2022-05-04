@@ -1,0 +1,34 @@
+{
+  "branch": [
+    { "id": 1, "branchname": "Cloudstier Solutions","techname": "Arun" },
+    { "id": 2, "branchname": "Vadamalai", "techname":"Yuvi" },
+    { "id": 3, "branchname": "TaTa", "techname": "John" }
+  ],
+  "employee": [
+    { "id": 1, "branchname": "Cloudstier Solutions", "empname": "Arun"},
+    { "id": 2, "branchname": "Vadamalai", "empname": "Vicky"},
+    { "id": 3, "branchname": "TaTa", "empname": "Sabari"}
+  ],
+  "worktype": [
+    { "id": 1, "workname": "Electrics", "techname": "Arun"},
+    { "id": 2, "workname": "Water supply", "techname": "Vicky"},
+    { "id": 3, "workname": "Painting", "techname": "Sabari"}
+  ],
+  "req-tech": [
+    { "id": 1, "reqid": "Req001", "reqname": "Laptop service", "technicianname":"Arun"},
+    { "id": 2, "reqid": "Req002", "reqname": "Water supply", "technicianname":"Vicky"},
+    { "id": 3, "reqid": "Req003", "reqname": "Mobile service", "technicianname":"Sabari"}
+  ],
+  "namesTypes": [
+    { "name": "Arun","type": "Electrician"},
+    { "name": "Vicky","type": "Plumber"},
+    { "name": "Sabari","type": "Painter"},
+    { "name": "Yuvi","type": "lumberjack"},
+    { "name": "Kumar", "type": "Mobile Service"},
+    { "name": "Pavith","type": "Laptop Service"},
+    { "name": "Kamal","type":"Bike Service"},
+    { "name": "Pugal","type": "Electrician"},
+    { "name": "Sudharson","type": "Plumber"},
+    { "name": "John","type":"Water supply"}
+  ] 
+}
